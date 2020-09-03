@@ -1,5 +1,5 @@
 {
-  "Titre": "Les Minions",
+  "TitreM": "Les Minions",
   "directeur": "Kyle Balda, Pierre Coffin",
   "Auteur": "Brian Lynch,",
   "Date": 2015,
@@ -19,7 +19,7 @@
   ]
 }
 {
-  "Titre": "fightClub",
+  "TitreF": "fightClub",
   "directeur": "David Fincher",
   "Auteur": "Chuck Palahniuk, Jim Uhks",
   "Date": 1999,
