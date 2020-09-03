@@ -23,17 +23,18 @@
   "Directeur": "David Fincher",
   "Auteur": "Chuck Palahniuk, Jim Uhks",
   "Date": 1999,
-  "vedette": 
-  {
-    "Nom": "Brad Pitt",
-    "Personnage": "Tyler Durden"
-  }
-  {
-    "Nom" :"Edward Norton",
-    "Personnage": "Narrateur
-  }
-  {
-    "Nom": "Meat Loaft",
-    "Personnage": "Robert Paulsen"
-  }
+  "vedette": [
+    {
+      "Nom": "Brad Pitt",
+      "Personnage": "Tyler Durden"
+    }
+    {
+      "Nom" :"Edward Norton",
+      "Personnage": "Narrateur
+    }
+    {
+      "Nom": "Meat Loaft",
+      "Personnage": "Robert Paulsen"
+    }
+  ]
 }
